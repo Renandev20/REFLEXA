@@ -53,10 +53,6 @@ Este projeto ainda está em desenvolvimento e contará com as seguintes melhoria
 Achou meu repertório interessante e gostaria de contratar um freela ou talvez me contratar para tornar acrescenter no seu negócio? Entre em contato comigo e vamos marcar.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeferson-franco-1349062b0/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/jefolidev">
-    <img src="https://skillicons.dev/icons?i=github" />
+ 
   </a>
 </p>
